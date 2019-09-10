@@ -5,7 +5,7 @@
 
 ## Information
 
-| File | non-obfuscated | obfuscated | 
-| Xeuses | 1 | N/A |
+| File | version | non-obfuscated | obfuscated | 
+| Xeuses | 1.0.0 | 1 | N/A |
 
 > Allowed version: 1.0.0

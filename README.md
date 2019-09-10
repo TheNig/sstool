@@ -8,4 +8,4 @@
 | File | non-obfuscated | obfuscated | 
 | Xeuses | 1 | N/A |
 
-> Accepted version: 1.0.0
+> Allowed version: 1.0.0

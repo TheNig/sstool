@@ -8,7 +8,7 @@
 | File | Version | non-obfuscated | obfuscated | 
 | Xeuses | 1.0.0 | 1 | N/A |
 
-> allowed version: 1.0.0
+> Allowed version: 1.0.0
 
 ## FAQ
 > Q: What does "File tampering detected" mean?

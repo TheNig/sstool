@@ -12,4 +12,7 @@
 > Q: What does "File tampering detected" mean?<br>
 > A: Meaning the file size of the memory dump was tampered with and is not the correct size, or external programs hindered with the dump
 
+> Q: What does "non-obfuscated" and "obfuscated" represent<br>
+> A: "non-obfuscated" is the number of virus flags it has on virus total before obfuscation, "obfuscated" is the number of flags it has after obfuscation. About 90% of anti-viruses hosted on virus total may flag a tool for it running certian lines of code, or flag the program entirely because it cannot read the code due to obfuscation.
+
 > Allowed version: 1.0.0

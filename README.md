@@ -11,5 +11,5 @@
 > Allowed version: 1.0.0
 
 ## FAQ
-> Q: What does "File tampering detected" mean?
+> Q: What does "File tampering detected" mean?<br>
 > A: Meaning the file size of the memory dump was tampered with and is not the correct size, or external programs hindered with the dump

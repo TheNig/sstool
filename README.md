@@ -5,4 +5,5 @@
 ## Information
 | File | non-obfuscated | obfuscated | 
 | Xeuses | 1 | N/A |
-> Accepted versions 1.0.0
+
+> Accepted Version: 1.0.0
